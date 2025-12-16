@@ -5,3 +5,6 @@ Miller Center of Public Affairs, University of Virginia. "Presidential Speeches:
 
 Presidential debate date from:
 https://github.com/jamesmartherus/debates.git
+
+NLTK:
+Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.
